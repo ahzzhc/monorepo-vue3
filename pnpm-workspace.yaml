@@ -1,0 +1,3 @@
+packages:
+  - "apps/*" # 存放项目代码
+  - "packages/*" # 存放组件代码
